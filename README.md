@@ -176,7 +176,7 @@ These metrics help assess model performance, particularly when working with imba
 
 **Swalpita Ray Nayak**
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Swalpita123
 
 ## 📄 License
 
