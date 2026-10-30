@@ -105,7 +105,7 @@ financial-fraud-detection-system/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/financial-fraud-detection-system.git
+git clone https://github.com/Swalpita123/Financial-fraud-detection-system.git
 ```
 
 ### 2. Navigate to the Project Directory
