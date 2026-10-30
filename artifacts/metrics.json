@@ -1,0 +1,51 @@
+{
+  "dataset_type": "synthetic",
+  "n_samples": 12000,
+  "n_train": 9600,
+  "n_test": 2400,
+  "fraud_rate": 0.15525,
+  "accuracy": 0.7066666666666667,
+  "precision": 0.3050647820965842,
+  "recall": 0.6943699731903485,
+  "f1_score": 0.4238952536824877,
+  "average_precision": 0.4226239770057059,
+  "roc_auc": 0.7683233452942911,
+  "classification_report": {
+    "0": {
+      "precision": 0.9264990328820116,
+      "recall": 0.7089294523926986,
+      "f1-score": 0.8032420346562326,
+      "support": 2027.0
+    },
+    "1": {
+      "precision": 0.3050647820965842,
+      "recall": 0.6943699731903485,
+      "f1-score": 0.4238952536824877,
+      "support": 373.0
+    },
+    "accuracy": 0.7066666666666667,
+    "macro avg": {
+      "precision": 0.615781907489298,
+      "recall": 0.7016497127915235,
+      "f1-score": 0.6135686441693602,
+      "support": 2400.0
+    },
+    "weighted avg": {
+      "precision": 0.8299177930724432,
+      "recall": 0.7066666666666667,
+      "f1-score": 0.744285222446563,
+      "support": 2400.0
+    }
+  },
+  "features": [
+    "amount",
+    "hour",
+    "distance_from_home_km",
+    "distance_from_last_transaction_km",
+    "ratio_to_median_purchase_price",
+    "used_chip",
+    "used_pin",
+    "online_order"
+  ],
+  "model": "Logistic Regression"
+}
